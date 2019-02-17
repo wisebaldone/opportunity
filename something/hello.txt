@@ -1,0 +1,1 @@
+Testing sub folders and intellijs svn cloner.

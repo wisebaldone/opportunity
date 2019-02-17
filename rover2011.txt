@@ -1,3 +1,0 @@
-Project: Opportunity
-Destination:  Mars
-Status: ?
